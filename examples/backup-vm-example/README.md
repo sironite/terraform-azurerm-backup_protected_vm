@@ -1,6 +1,6 @@
-# Terraform module | AzureRM - Invullen
+# Terraform module | AzureRM - Azure Backup for an Azure VM
 
-This Terraform module is designed to create a Invullen for Azure.
+This Terraform module is designed to create a Azure Backup for an Azure VM for Azure.
 
 ## Pre-requisites
 
@@ -9,7 +9,7 @@ Using the modules requires the following pre-requisites:
 
 ## Usage
 
-`Invullen`
+`Azure Backup for an Azure VM`
 
 ```hcl
 
